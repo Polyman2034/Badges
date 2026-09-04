@@ -1,2 +1,2 @@
 # Badges
-#  This repository is created for gaining the badges only.
+# I would like to keep the watch on the badges Students Achive throught their journey.
