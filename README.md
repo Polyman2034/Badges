@@ -1,3 +1,12 @@
-# Badges
-## I would like to keep the watch on the badges Students Achive throught their journey.
-# I like to build Mobile apps.
+## 🚧 Coming Soon
+
+This project is currently under active development. The following features and improvements are planned for upcoming releases:
+
+- 🚀 Advanced features and optimizations
+- 🤖 Improved AI capabilities
+- 📊 Enhanced analytics and insights
+- 🌐 Additional integrations
+- 📱 Improved mobile experience
+- 🔒 Enhanced security and reliability
+
+More updates will be added as development progresses.
