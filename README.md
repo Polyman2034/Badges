@@ -10,3 +10,5 @@ This project is currently under active development. The following features and i
 - 🔒 Enhanced security and reliability
 
 More updates will be added as development progresses.
+
+“Learn. Build. Experiment. Improve.” 🚀
