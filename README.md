@@ -10,6 +10,8 @@ This project is currently under active development. The following features and i
 - 🔒 Enhanced security and reliability
 
 More updates will be added as development progresses.
+<hr>
 
-                                             “Learn. Build. Experiment. Improve.” 🚀
-
+<p align="center">
+  <i>“Learn. Build. Experiment. Improve.”</i> 🚀
+</p>
